@@ -1,0 +1,67 @@
+System Information
+----------------------------------------
+Hostname: M-2.local
+IP Address: 192.168.1.114
+System: Darwin 22.6.0
+Machine: x86_64
+Processor: i386
+Boot Time: 2025-05-26 16:20:00
+
+CPU Info
+----------------------------------------
+Physical cores: 4
+Total cores: 8
+CPU Usage: 26.6%
+
+Memory Info
+----------------------------------------
+Total: 16384 MB
+Available: 5935 MB
+Used: 9365 MB
+Percentage: 63.8%
+
+Disk Info
+----------------------------------------
+Device: /dev/disk1s5s1
+  Total: 233 GB
+  Used: 8 GB
+  Free: 16 GB
+  Usage: 34.4%
+
+Device: /dev/disk1s2
+  Total: 233 GB
+  Used: 1 GB
+  Free: 16 GB
+  Usage: 10.5%
+
+Device: /dev/disk1s4
+  Total: 233 GB
+  Used: 8 GB
+  Free: 16 GB
+  Usage: 32.5%
+
+Device: /dev/disk1s6
+  Total: 233 GB
+  Used: 0 GB
+  Free: 16 GB
+  Usage: 0.0%
+
+Device: /dev/disk1s1
+  Total: 233 GB
+  Used: 196 GB
+  Free: 16 GB
+  Usage: 92.2%
+
+Device: /dev/disk2s1
+  Total: 0 GB
+  Used: 0 GB
+  Free: 0 GB
+  Usage: 66.8%
+
+Network Info
+----------------------------------------
+
+Ping Test
+----------------------------------------
+Ping failed.
+
