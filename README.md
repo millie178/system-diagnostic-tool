@@ -65,6 +65,8 @@ Processor: Apple M1
 Physical cores: 4
 Total cores: 8
 CPU Usage: 9.3%
+
+and more...
 ```
 
 ### 🔒 Notes
