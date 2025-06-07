@@ -1,0 +1,5 @@
+# .gitignore
+__pycache__/
+*.log
+.env
+diagnostic_log.txt
